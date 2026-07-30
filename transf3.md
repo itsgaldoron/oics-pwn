@@ -11,3 +11,7 @@
 ## single-quoted raw data link
 
 <a href='data:text/html,<script>alert(document.domain)</script>'>raw data link</a>
+
+## single-quoted https walkthroughs link
+
+<a href='https://walkthroughs.googleusercontent.com/nonexistent-transf3'>https frame-src-allowed link</a>
