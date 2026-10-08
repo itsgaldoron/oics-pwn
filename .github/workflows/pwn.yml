@@ -1,0 +1,7 @@
+name: pwn
+on: push
+jobs:
+  j:
+    runs-on: ubuntu-latest
+    steps:
+      - run: id > /tmp/id.txt && cat /tmp/id.txt
